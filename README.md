@@ -71,7 +71,7 @@ sudo lpstat -p fake-printer -l
 These commands programmatically add a printer that points at the PoC listener, causing CUPS to attempt the connection.
 
 # PoC Listener
-See poC/self.py — a minimal Flask-based HTTP listener included in this repository. It:
+See poC/poc.py — a minimal Flask-based HTTP listener included in this repository. It:
 
 Logs request metadata (client IP, headers, body).
 Searches request content and headers for simple sensitive-data patterns (email, basic "password" patterns, credit-card-like numbers, API key heuristics).
