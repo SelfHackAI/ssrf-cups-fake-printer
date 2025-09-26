@@ -2,7 +2,7 @@
 <img width="2698" height="422" alt="image" src="https://github.com/user-attachments/assets/159525ba-b207-4db5-bf36-33c79c2adb71" />
 <img width="1712" height="236" alt="image" src="https://github.com/user-attachments/assets/08af1e9a-d40b-45fa-85ce-3974f306678b" />
 
-# https://support.apple.com/tr-tr/125110
+# https://support.apple.com/en-en/125110
 
 
 ## SSRF via Fake Printer Injection in CUPS
