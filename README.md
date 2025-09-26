@@ -56,10 +56,9 @@ Kodu kopyala
 
 ### 2) Start the PoC listener
 ```bash
-cd poC
-chmod +x run.sh
-./run.sh
-poC/run.sh starts the Flask listener on port 8080.
+cd ssrf-cups-fake-printer
+chmod +x poc.py
+./poc.py // starts the Flask listener on port 8080.
 ```
 The listener logs incoming requests and scans headers/body for basic sensitive patterns.
 
