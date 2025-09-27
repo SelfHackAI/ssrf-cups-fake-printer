@@ -50,9 +50,6 @@ CUPS does not adequately validate or restrict admin-supplied printer connection 
 2. Go to **Add Printer**.  
 3. In the **Connection** field enter:  
 http://<POC_SERVER_IP>:8080
-
-bash
-Kodu kopyala
 4. Complete the printer addition process.  
 5. The PoC listener (see below) should receive and log the request from the CUPS server.
 
